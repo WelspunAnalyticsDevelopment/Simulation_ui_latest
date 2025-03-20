@@ -249,8 +249,8 @@ const Dashboard = ({ selectedProduct, levelSimulation }) => {
 
 
   if (result !== null) {
-    sessionStorage.setItem("userName",  /*result.account.username*/ 'Avinash_Malani@welspun.com');
-    sessionStorage.setItem("name", /*result.account.name*/ 'Avinash Malani' );
+    sessionStorage.setItem("userName",  /*result.account.username*/ 'Sandeep_Dhingra@welspun.com');
+    sessionStorage.setItem("name", /*result.account.name*/ 'Sandeep Dhingra' );
     // Logger.log(`User ${result.account.name} logged in ${new Date()}`)
   }
 
